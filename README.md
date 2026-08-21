@@ -73,6 +73,22 @@ Label styles (Work Sans), for buttons, navigation, form inputs, captions, tags a
 
 **Tertiary typeface: Work Sans**, for utility text, metadata, captions, technical information and micro-copy.
 
+## Spacing
+
+A single spacing scale is used across the system: 8px, 16px, 24px, 32px and 48px. Apply it consistently between text elements, buttons and calls to action, card contents, sections and layout blocks, so vertical and horizontal rhythm stays uniform across every surface. Data visualisation follows its own fixed spacing values, set out under Data Visualisation below, rather than this general scale.
+
+## Components
+
+Structural UI components carry the same colour and type hierarchy as the rest of the system rather than introducing their own.
+
+**Button:** Primary and Secondary variants, each available as Filled or Outline. Primary Filled uses Terracotta as the fill, matching Terracotta's role as the system's primary action colour. Secondary Outline uses a Charcoal outline on an Ivory or transparent ground. Button text follows the Label style: Work Sans Semibold, 14px.
+
+**Navbar:** Light and Dark variants. Light uses an Ivory ground with Charcoal type and the standard combination mark; Dark uses a Charcoal ground with Ivory type and the reversed combination mark. The logo sits left-aligned in both.
+
+**Footer:** Light and Dark variants, following the same ground and logo-colourway pairing as the Navbar.
+
+**Card:** built from a photograph, an H-style header (Zilla Slab), P: Regular body copy (Work Sans) and a Terracotta text link. Stone is the card surface, consistent with Stone's role for cards and content sections under Colour above.
+
 ## Photography
 
 Photography is Siyakha BRANDING's primary storytelling device. It should make the work feel tangible, skilled and human, observational rather than staged: the objective is to document the work, people and production process rather than manufacture a polished advertising scene.
@@ -174,6 +190,7 @@ Data visualisation should make decisions easier, not make reports look more deco
 - Take colour, type and icon assignments from the values fixed in this guide rather than approximating them.
 - Photograph real people and real production, observationally rather than as staged advertising.
 - Keep illustration, iconography and data visualisation flat, functional and coloured from the established brand hierarchy.
+- Apply the fixed spacing scale (8 / 16 / 24 / 32 / 48px) consistently across components and layouts.
 
 ## Don't
 
@@ -182,6 +199,7 @@ Data visualisation should make decisions easier, not make reports look more deco
 - Do not recolour the logo using the wider supporting palette, or let Terracotta compete with the primary Charcoal wordmark or logomark.
 - Do not use generic stock photography, staged corporate imagery, decorative illustration, mixed icon styles, or rainbow chart palettes: each substitutes decoration for the brand's established hierarchy.
 - Do not introduce colour, in illustration, iconography or data visualisation, without a defined informational purpose.
+- Do not introduce one-off spacing values outside the fixed scale.
 
 ## Files
 
