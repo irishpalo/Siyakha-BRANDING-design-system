@@ -1,16 +1,16 @@
 # Siyakha Branding design system
 
-Siyakha BRANDING is a brand system built around the staggered brick mark, Zilla Slab set against Work Sans, and a Charcoal-on-Ivory palette accented in Terracotta. Charcoal #2B211B carries the logo, headings and key brand moments; Ivory #FAF6F0 is the primary ground; Terracotta #C15F3C is reserved for calls to action, links and the BRANDING descriptor. Zilla Slab is used for headlines and brand-led display text, Work Sans for body copy, interface text, labels and utility content. Photography is the system's primary storytelling device: real people, real production, documentary rather than advertising. Illustration and iconography are functional rather than decorative, built on the structural logic of the brick logomark, outline only, with no fills, gradients or shadows. Data visualisation follows the same restraint: flat, minimally decorated, and coloured from the established brand hierarchy rather than a separate chart palette.
+Siyakha Branding is a brand system built around the staggered brick mark, Zilla Slab set against Work Sans, and a Charcoal-on-Ivory palette accented in Terracotta. Charcoal #2B211B carries the logo, headings and key brand moments; Ivory #FAF6F0 is the primary ground; Terracotta #C15F3C is reserved for calls to action, links and the BRANDING descriptor. Zilla Slab is used for headlines and brand-led display text, Work Sans for body copy, interface text, labels and utility content. Photography is the system's primary storytelling device: real people, real production, documentary rather than advertising. Illustration and iconography are functional rather than decorative, built on the structural logic of the brick logomark, outline only, with no fills, gradients or shadows. Data visualisation follows the same restraint: flat, minimally decorated, and coloured from the established brand hierarchy rather than a separate chart palette.
 
 ## How to use this
 
 Master logo artwork is supplied as SVG for digital and scalable applications, with PDF/EPS versions for professional print and production. Always reproduce the logo from this approved master artwork; never redraw, distort, rotate, stretch, add effects to, or alter its proportions. The logotype should not be recreated by typing SIYAKHA in Zilla Slab: use the approved artwork so proportions, spacing and alignment are preserved.
 
-The relationship between the brick mark, the SIYAKHA wordmark and the BRANDING descriptor in the combination mark is fixed. Do not independently resize, reposition or rearrange these elements.
+The relationship between the brick mark, the Siyakha wordmark and the Branding descriptor in the combination mark is fixed. Do not independently resize, reposition or rearrange these elements.
 
 Maintain clear space around the logo, derived proportionally from a consistent unit within the brick mark, so that no text, imagery, borders or other graphic elements enter it.
 
-Test the combination mark at small display sizes before deployment. If BRANDING becomes illegible, use the logomark or a simplified configuration rather than reducing the complete lockup further. Test the logomark independently for favicon use, social avatars, small UI placements, product marking, embroidery and engraving.
+Test the combination mark at small display sizes before deployment. If Branding becomes illegible, use the logomark or a simplified configuration rather than reducing the complete lockup further. Test the logomark independently for favicon use, social avatars, small UI placements, product marking, embroidery and engraving.
 
 The primary logo colour is Charcoal #2B211B on an Ivory #FAF6F0 ground; a reversed version may be used where required for contrast. Terracotta is reserved for the BRANDING descriptor and should not compete with the primary Charcoal wordmark or logomark. Do not recolour the logo using the wider supporting palette unless a specific production requirement calls for single-colour reproduction.
 
@@ -18,7 +18,7 @@ Take colour, type and icon assignments from the values fixed in this guide rathe
 
 ## Direction
 
-The combination mark, the brick mark to the left of the wordmark with BRANDING beneath, is the preferred primary logo and the default full-brand identity. The logomark and logotype are supporting configurations rather than separate identities: the logomark is used when space is limited or the brand is already recognisable, the logotype when the name needs to be the primary identifier.
+The combination mark, the brick mark to the left of the wordmark with Branding beneath, is the preferred primary logo and the default full-brand identity. The logomark and logotype are supporting configurations rather than separate identities: the logomark is used when space is limited or the brand is already recognisable, the logotype when the name needs to be the primary identifier.
 
 Across photography, illustration, iconography and data visualisation, the governing principle is restraint: emphasise information through contrast and hierarchy rather than decoration or bright colour. Photography should feel observational rather than staged. Illustration should feel like an extension of the logo rather than a separate visual language. Data visualisation should communicate through structure, scale and contrast rather than embellishment. The established colour hierarchy carries through all of them: Charcoal for primary emphasis, Warm Brown for secondary emphasis, Stone for structural context, Terracotta for action and interaction, Forest Green for community and impact.
 
