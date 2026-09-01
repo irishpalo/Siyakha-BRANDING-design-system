@@ -1,4 +1,4 @@
-# Siyakha BRANDING design system
+# Siyakha Branding design system
 
 Siyakha BRANDING is a brand system built around the staggered brick mark, Zilla Slab set against Work Sans, and a Charcoal-on-Ivory palette accented in Terracotta. Charcoal #2B211B carries the logo, headings and key brand moments; Ivory #FAF6F0 is the primary ground; Terracotta #C15F3C is reserved for calls to action, links and the BRANDING descriptor. Zilla Slab is used for headlines and brand-led display text, Work Sans for body copy, interface text, labels and utility content. Photography is the system's primary storytelling device: real people, real production, documentary rather than advertising. Illustration and iconography are functional rather than decorative, built on the structural logic of the brick logomark, outline only, with no fills, gradients or shadows. Data visualisation follows the same restraint: flat, minimally decorated, and coloured from the established brand hierarchy rather than a separate chart palette.
 
